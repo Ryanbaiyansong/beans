@@ -1,5 +1,5 @@
 # beans-eater-react
-Beans-eater game created with react
+Small Beans-eater game created with react
 
 ## INSTALLATION DEPENDENCES
 ```javascript
